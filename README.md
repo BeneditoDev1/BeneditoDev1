@@ -28,4 +28,6 @@
 <a href = "mailto:bencaceres1799@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/benedito-magalhães-1a700821b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img align="right" alt="Bene-pic" height="150" style="border-radius:50px;" src = "https://picrew.me/shareImg/org/202207/338224_bC272CfD.png">
+
+![Snake animation](https://github.com/Bencx1/Bencx1/blob/main/.github/workflows/main.yml)
 </div>
