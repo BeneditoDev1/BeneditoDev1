@@ -1,7 +1,7 @@
 ### Seja Bem vindo!!! ╰(*°▽°*)╯
 
 - 🔭 Desensolvedor de Sistemas Web 👨‍💻.
-- 🌱 Estudante de Tecnolgia em Sistemas para Internet IFMS 📚.
+- 🌱 Estudante de Tecnologia em Sistemas para Internet IFMS 📚.
 - 📫 Linkedin: https://www.linkedin.com/in/benedito-magalhães-1a700821b/ 😎.
 
 <div align="center">
