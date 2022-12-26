@@ -9,7 +9,7 @@
 </div>
 
 ##
-
+<h2>Conhecimento</h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="B-Csharp" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="B-python" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -20,6 +20,16 @@
 <img align="center" alt="B-debian" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="center" alt="B-Bootstrap" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="Bash" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="Center" alt="PostGree" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
+
+
+<h2>Interesses de aprendizado</h2>
+<div style:"display: inline_block"><br>
+<img align="center" alt="B-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" alt="B-NodeJS" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" alt="VueJs" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="center" alt="VueJs" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div>
 
 ##
