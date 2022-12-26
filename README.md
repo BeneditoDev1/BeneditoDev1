@@ -23,7 +23,7 @@
 <img align="Center" alt="PostGree" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-
+##
 <h2>Interesses de aprendizado</h2>
 <div style:"display: inline_block"><br>
 <img align="center" alt="B-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
