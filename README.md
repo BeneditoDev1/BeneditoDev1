@@ -12,6 +12,8 @@
 <h2>Conhecimento</h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="B-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" alt="Laravel-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img align="center" alt="Wordpress-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="center" alt="B-Csharp" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="B-java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" alt="B-Mysql" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -26,8 +28,6 @@
 ##
 <h2>Interesses de aprendizado</h2>
 <div style:"display: inline_block"><br>
-<img align="center" alt="Laravel-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="center" alt="Wordpress-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="center" alt="AWS-PHP" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="center" alt="B-NodeJS" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="center" alt="VueJs" height="50" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
