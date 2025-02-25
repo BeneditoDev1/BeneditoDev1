@@ -1,5 +1,5 @@
 ### Seja Bem vindo!!! ╰(*°▽°*)╯
-Sou Benedito Magalhães, um entusiasta de tecnologia de 25 anos, com experiência em desenvolvimento de sistemas e suporte técnico. Seja bem-vindo ao meu universo, onde você poderá conhecer minha trajetória e minhas experiências profissionais. Espero que goste do meu perfil e fique à vontade para entrar em contato comigo, via e-mail ou LinkedIn.
+Sou Benedito Magalhães, um entusiasta de tecnologia de 25 anos, com experiência em desenvolvimento de sistemas e suporte técnico. Seja bem-vindo ao meu universo, onde você poderá conhecer minha trajetória e minhas experiências profissionais.
 
 - 🔭 Desensolvedor Full Stack 👨‍💻.
 - 🌱 Concluínte em Tecnologia em Sistemas para Internet IFMS 📚.
