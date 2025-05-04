@@ -1,8 +1,8 @@
 ### Seja Bem vindo!!! ╰(*°▽°*)╯
 Sou Benedito Magalhães, um entusiasta de tecnologia de 25 anos, com experiência em desenvolvimento de sistemas e suporte técnico.
 
-- 🔭 Desensolvedor Full Stack 👨‍💻.
-- 🌱 Concluínte em Tecnologia em Sistemas para Internet IFMS 📚.
+- 🔭 Desenvolvedor Full Stack 👨‍💻.
+- 🌱 Formado em Tecnologia em Sistemas para Internet IFMS 📚.
 - 📫 Linkedin: https://www.linkedin.com/in/benedito-magalhães-1a700821b/ 😎.
 - Inglês intermediário (B1).
 
